@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{02C745AB-EA32-5D05-CFC2-5EB38269A931}</ProjectGuid>
+    <ProjectGuid>{F8D79369-C1D1-ABC4-4D75-39DE089F0D26}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,9 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\NumberWizard.cs" />
+     <Compile Include="Assets\Scripts\NumberWizards.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/Users/muhtar/Public/Unity/Number Wizard/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/Users/muhtar/Public/Unity/NumberWizard/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UIAutomation">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
